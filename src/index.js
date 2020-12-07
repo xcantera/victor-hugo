@@ -1,8 +1,4 @@
-// JS Goes here - ES6 supported
 
-import "./css/main.css";
-
-// Say hello
 class Calculator {}
 Calculator.main = (args) => {
   let total_stacked = 138000000;
